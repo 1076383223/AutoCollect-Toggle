@@ -1,0 +1,10 @@
+# 构建产物
+bin/
+obj/
+build.log
+*.user
+.vs/
+
+# 不纳入仓库的本地文件
+*.dll
+*.bak
